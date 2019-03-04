@@ -1,7 +1,7 @@
 # express-react-boilerplate
 
 Step 1)
-  node bin/www
+  port=3001 && node bin/www
     *this will start back end server on port 3001.
     
 Step 2)

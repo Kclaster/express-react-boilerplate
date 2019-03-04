@@ -11,3 +11,6 @@ Step 2)
 **Notes
  Client/App.js is linked to backend's users.js file. Use that link as a template for future backend calls.
  For mysql setup:  https://expressjs.com/en/guide/database-integration.html#mysql
+ Steps for heroku deployment: https://daveceddia.com/deploy-react-express-app-heroku/
+ 
+ 
